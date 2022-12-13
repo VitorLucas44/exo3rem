@@ -142,3 +142,28 @@ section .ovale .violet .gsm .bulle2 p {
   padding: 4%;
   color: #ae3efb;
 }
+section .ovale .violet .gsm .bulle3 {
+  background-color: #ae3efb;
+  width: 200px;
+  height: 30px;
+  border-radius: 20px 20px 20px 0px;
+  margin: 2%;
+}
+section .ovale .violet .gsm .bulle3 .bulle3txt {
+  margin-top: 2%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+section .ovale .violet .gsm .bulle3 .bulle3txt p {
+  font-size: 8px;
+  color: white;
+  margin: 4%;
+  padding: auto;
+}
+section .ovale .violet .gsm .bulle3 .bulle3txt h1 {
+  margin: auto;
+  font-size: 15px;
+  color: white;
+  margin-left: 30%;
+}
